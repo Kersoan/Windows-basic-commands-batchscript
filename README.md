@@ -1,7 +1,7 @@
 # EX-08-Windows-basic-commands-batchscript      
 ```
-# NAME : KERSOAN P
-# REG  : 212221230050
+NAME : KERSOAN P
+REG  : 212221230050
 ```
 # AIM:
 To execute Windows basic commands and batch scripting
