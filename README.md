@@ -1,8 +1,8 @@
-# Windows-basic-commands-batchscript
-# Ex08-Windows-basic-commands-batchscript      
-# NAME:mohamed aseem p
-# REG.NO:212221230063
-
+# EX-08-Windows-basic-commands-batchscript      
+```
+# NAME : KERSOAN P
+# REG  : 212221230050
+```
 # AIM:
 To execute Windows basic commands and batch scripting
 
